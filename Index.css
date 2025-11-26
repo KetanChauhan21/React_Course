@@ -1,4 +1,8 @@
 body{
-    font-family:'Courier New', Courier, monospace;
-    color: red;
+    font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    color: white;
+}
+
+#parent{
+    background-color:black;
 }
